@@ -1,0 +1,5 @@
+class HelloGit{
+	public static void main(){
+	sysout("Welcome to Git......");
+	}
+}
