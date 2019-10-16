@@ -1,5 +1,8 @@
 class HelloGit{
 
+	void myMethod(){
+		sysout("My Method");
+	}
 	public static void main(String args[]){
 
 		System.out.println("This will print...***Welcome to Git......!!***");
