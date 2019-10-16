@@ -1,7 +1,8 @@
 class HelloGit{
 
-	static String myMethod(){
-		return("My Method");
+	public static String myMethod(String str){
+		return str;
+
 	}
 	public static void main(String args[]){
 
